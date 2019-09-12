@@ -4,4 +4,4 @@ Projet de formation
 
 ligne en plus
 
-ligne local
+ligne github
