@@ -1,7 +1,5 @@
-# m2i-jour1 - modif local
+# m2i-jour1
 
 Projet de formation
 
 ligne en plus
-
-ligne github
